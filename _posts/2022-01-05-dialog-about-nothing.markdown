@@ -1,4 +1,9 @@
-# Dialog about nothing
+---
+layout: post
+title:  "Dialog about nothing"
+date:   2022-01-05 00:00:00 +0300
+categories: non-duality
+---
 
 A: Who are you?
 B: I am B
